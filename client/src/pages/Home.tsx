@@ -1003,7 +1003,7 @@ function Footer() {
           <div>
             <div style={{ marginBottom: "1rem" }}>
               <span style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: "2rem", fontWeight: 600, color: "#d4a853", letterSpacing: "0.08em" }}>AZTEK</span>
-              <span style={{ fontFamily: "'Nunito Sans', sans-serif", fontSize: "0.7rem", fontWeight: 300, color: "#5a4735", letterSpacing: "0.3em", textTransform: "uppercase", display: "block", marginTop: "-4px" }}>COFFEE · PETROȘANI</span>
+              <span style={{ fontFamily: "'Nunito Sans', sans-serif", fontSize: "0.7rem", fontWeight: 300, color: "#5a4735", letterSpacing: "0.3em", textTransform: "uppercase", display: "block", marginTop: "-4px" }}>CAFFE · PETROȘANI</span>
             </div>
             <p style={{ fontFamily: "'Nunito Sans', sans-serif", fontSize: "0.88rem", fontWeight: 300, color: "#5a4735", lineHeight: 1.7, maxWidth: "280px" }}>
               Cafea de origini, proaspăt prăjită. Un spațiu cultural viu în inima Petroșaniului, unde cafeaua devine artă.
