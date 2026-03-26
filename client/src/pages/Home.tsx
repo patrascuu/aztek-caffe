@@ -89,7 +89,7 @@ function Navbar() {
               AZTEK
             </span>
             <span style={{ fontFamily: "'Nunito Sans', sans-serif", fontSize: "0.6rem", fontWeight: 300, color: "#c8c6c0", letterSpacing: "0.35em", textTransform: "uppercase", marginTop: "-2px" }}>
-              COFFEE · PETROȘANI
+              Caffe · PETROȘANI
             </span>
           </div>
         </a>
@@ -274,7 +274,7 @@ function HeroSection() {
             animation: "fadeInUp 0.9s ease 0.55s forwards",
           }}
         >
-          Coffee
+          Caffe
         </h1>
 
         {/* Tagline */}
@@ -318,7 +318,8 @@ function HeroSection() {
               background: "#d4a853",
               padding: "1rem 2.5rem",
               textDecoration: "none",
-              borderRadius: "2px",
+              borderRadius: '1px',
+              borderStyle: 'groove',
               transition: "background 0.25s, transform 0.25s",
               display: "inline-block",
             }}
@@ -367,7 +368,7 @@ function HeroSection() {
           }}
         >
           <span style={{ fontFamily: "'Nunito Sans', sans-serif", fontSize: "0.65rem", color: "#7d6855", letterSpacing: "0.2em", textTransform: "uppercase" }}></span>
-          <div style={{ width: "1px", height: "40px", background: "linear-gradient(to bottom, #d4a853, transparent)", animation: "shimmer 2s infinite" }} />
+          <div style={{ width: "1px", height: "40px", background: "linear-gradient(to bottom, #d4a853, transparent)", animation: "shimmer 2s infinite", display: 'none' }} />
         </div>
       </div>
     </section>
