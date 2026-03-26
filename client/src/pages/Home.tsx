@@ -366,7 +366,7 @@ function HeroSection() {
             animation: "fadeIn 1s ease 1.5s forwards",
           }}
         >
-          <span style={{ fontFamily: "'Nunito Sans', sans-serif", fontSize: "0.65rem", color: "#7d6855", letterSpacing: "0.2em", textTransform: "uppercase" }}>Scroll</span>
+          <span style={{ fontFamily: "'Nunito Sans', sans-serif", fontSize: "0.65rem", color: "#7d6855", letterSpacing: "0.2em", textTransform: "uppercase" }}></span>
           <div style={{ width: "1px", height: "40px", background: "linear-gradient(to bottom, #d4a853, transparent)", animation: "shimmer 2s infinite" }} />
         </div>
       </div>
